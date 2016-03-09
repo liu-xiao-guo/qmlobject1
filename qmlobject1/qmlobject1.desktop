@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=qmlobject1
+Exec=qmlobject1
+Icon=qmlobject1/qmlobject1.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
